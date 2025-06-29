@@ -17,7 +17,7 @@ All built in Python using Google Colab.
 | ✅ Weather Info     | Get current weather using OpenWeatherMap API |
 | ✅ Task Manager     | Add, view tasks in a simple list            |
 | ✅ Wiki Answers     | Summarize topics using Wikipedia API        |
-| ✅ GPT Chat         | Ask intelligent questions (requires OpenAI key)currently not activated |
+| ✅ GPT Chat         | Ask intelligent questions (requires OpenAI key) |
 
 ---
 
