@@ -1,0 +1,29 @@
+
+👤 You: weather in Kochi
+🤖 kochi: 27.99°C, scattered clouds
+
+👤 You: add task Finish homework
+🤖 Task added: ['finish homework']
+
+👤 You: what is Machine Learning
+🤖 ⚠️ No page found for 'machine learning'.
+
+👤 You: ask gpt Tell me a motivational quote
+🤖 GPT 🌟 "Technology… the knack of so arranging the world that we don't have to experience it." - Max Frisch
+
+👤 You: weather in London
+🤖 london: 29.22°C, clear sky
+
+👤 You: show tasks
+🤖 Your tasks:
+- finish homework
+
+👤 You: bye
+🤖 Goodbye! See you later.
+
+👤 You: ask gpt what is chat gpt
+
+🤖 GPT 📚ChatGPT is a generative artificial intelligence chatbot developed by OpenAI and released on November 30, 2022. It uses large language models (LLMs) such as   GPT-4o along with other multimodal models to generate human-like responses in text, speech, and images.
+
+👤 You: clear tasks
+🤖 🧹 All tasks cleared.
